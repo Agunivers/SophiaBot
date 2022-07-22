@@ -1,7 +1,7 @@
 {
       "name": "Sophia",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/55ee43a1fe97fefd29ed0.jpg",
+      "logo": "https://telegra.ph/file/043c2029266acf01e656b.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Sophia"
       ],   
-   "repository": "https://github.com/dihanofficial/SophiaBot",
+   "repository": "https://github.com/Agunivers/SophiaBot",
    "addons": [
       {
          "options": {
@@ -76,7 +76,7 @@
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
-         "required": true,
+         "required": false,
          "value": ""
       },
       "IBM_WATSON_CRED_URL": {
